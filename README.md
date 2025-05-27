@@ -73,7 +73,7 @@ using **Segger Embedded Studio (SES)**.
 3. Select the COM port assigned to the board’s virtual COM (check Device Manager).
 4. Set **baud rate** to `115200`.
 5. You should see the HID device logs or responses here.
-
+6. you should press the button one then it will press the keys like "joyson" thats what i give in the program
 ---
 
 ## 📌 Notes
